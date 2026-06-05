@@ -1,2 +1,2 @@
 # Grupo1-Calle-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1 2026 
+El dia de hoy Viernes 5 de Junio, con mi compañero y amigo Lisandro Fernandez estuvimos haciendo el tp que nos mando nuestro profesor Ignacio Traverso, el cual se trataba de buscar e investigar un componente el cual no hayamos visto en clase, que utilizariamos para nuestro proyecto final el cual es un invernadero. Nosotros elejimos el Motor de vbracion y en clase estuve haciendo un documento de google con los formatos que pidio el profe y agregando la informacion que pidio, toda la informacion que saque fue de la IA geminis de google.
