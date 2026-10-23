@@ -1,2 +1,2 @@
 # Grupo1-Calle-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1 2026 
+El día de hoy con mi grupo, estuvimos armando nuestro proyecto en el Arduino físico. Conectamos el sensor de temperatura, el sensor de luz, el sensor de humedad, el led y el lcd. Pudimos conectar todo perfectamente. Yo ayude en más conexiones y el código para que todo funciones bien, y que no nos falte nada. También estuvimos hablando sobre que cosas avanzaremos la proxima clase. Eso fue todo por hoy.
