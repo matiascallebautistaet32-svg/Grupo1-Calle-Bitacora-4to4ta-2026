@@ -1,2 +1,2 @@
 # Grupo1-Calle-Bitacora-4to4ta-2026
-Bitácoras de mi trabajo en el proyecto final de la materia Proyecto Informático 1 2026 
+El dia de hoy con Lisandro y Kevin, estuvimos armando el proyecto en el Arduino fisico, y aunque no pudimos terminar, nos falto solo poner los motores CC. En tanto a lo demas, pudimos conectarlo todo bien, y el codigo funciono correctamente, ademas de hacer un par de cambios y hablar sobre quien se iba a encargar de las tareas, y de cuando hagamos en el Arduino como nos ibamos a organizar desde ahora. Eso fue todo por hoy
